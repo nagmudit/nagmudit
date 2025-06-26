@@ -83,19 +83,8 @@ Hey there! I'm **Mudit**, a developer who loves building things that make an imp
   
 </div>
 
-### 🏢 Organization & Private Repository Contributions
+### 🏢 Repository Contributions
 
-<div align="center">
-
-**📈 Total Contributions Include:**
-- ✅ **Private Repository Commits** (Organization & Personal)
-- ✅ **Organization Repository Contributions** 
-- ✅ **Code Reviews & Pull Requests**
-- ✅ **Issue Management & Documentation**
-
-*Stats above reflect both public and private repository activity*
-
-</div>
 
 <div align="center">
   
