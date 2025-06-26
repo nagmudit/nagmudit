@@ -108,10 +108,13 @@ Hey there! I'm **Mudit**, a developer who loves building things that make an imp
 
 <div align="center">
 
+<div align="center">
 ### 🤖 AI Developer @ Rabbitt AI
 
 **Building the Future with AI-Powered Solutions**
+</div>
 
+<div align="left">
 - 🔧 Developing **LLM-powered applications** using LangChain, Mistral, and RAG
 - 📊 Creating **AI-driven automation tools** for SEO, content generation, and marketing
 - 🗄️ Managing complex databases with **MongoDB and PostgreSQL**
@@ -119,6 +122,7 @@ Hey there! I'm **Mudit**, a developer who loves building things that make an imp
 - 📱 Developing **cross-platform mobile apps** with real-time features
 - 🎤 Speaking at events like **Hack4Bihar** and **Hackaccino**
 - 👨‍🏫 Mentored **1200+ participants** in hackathons
+</div>
 
 </div>
 
