@@ -72,8 +72,8 @@ Hey there! I'm **Mudit**, a developer who loves building things that make an imp
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagmudit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmudit&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagmudit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_owner=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagmudit&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&count_private=true&hide=html,css"/>
   
 </div>
 
@@ -81,6 +81,20 @@ Hey there! I'm **Mudit**, a developer who loves building things that make an imp
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagmudit&theme=tokyonight" alt="nagmudit" />
   
+</div>
+
+### 🏢 Organization & Private Repository Contributions
+
+<div align="center">
+
+**📈 Total Contributions Include:**
+- ✅ **Private Repository Commits** (Organization & Personal)
+- ✅ **Organization Repository Contributions** 
+- ✅ **Code Reviews & Pull Requests**
+- ✅ **Issue Management & Documentation**
+
+*Stats above reflect both public and private repository activity*
+
 </div>
 
 <div align="center">
